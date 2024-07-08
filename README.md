@@ -1,3 +1,3 @@
 # html
 This is my first github repo <br>
-Author - kaushik patil
+Author - kaushik kishor patil
